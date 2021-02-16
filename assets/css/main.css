@@ -3916,3 +3916,14 @@ input, select, textarea {
     	width: 100%;
     	height: 100%;
 	}
+
+/* Custom Fonts */
+
+	@font-face {
+		font-family: "Annonce"; src:
+		url("//db.onlinewebfonts.com/t/488adf84f184eb603da807be9372e2c6.eot"); src:
+		url("//db.onlinewebfonts.com/t/488adf84f184eb603da807be9372e2c6.eot?#iefix") format("embedded-opentype"),
+		url("//db.onlinewebfonts.com/t/488adf84f184eb603da807be9372e2c6.woff2") format("woff2"),
+		url("//db.onlinewebfonts.com/t/488adf84f184eb603da807be9372e2c6.woff") format("woff"),
+		url("//db.onlinewebfonts.com/t/488adf84f184eb603da807be9372e2c6.ttf") format("truetype"),
+		url("//db.onlinewebfonts.com/t/488adf84f184eb603da807be9372e2c6.svg#AnnonceW01-Regular") format("svg"); }
